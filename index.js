@@ -125,7 +125,7 @@ Countdown.prototype.onEnd = function(cb) {
   return this;
 };
 
-var endDate = new Date('February 1, 2019, 12:00:00');
+var endDate = new Date('March 1, 2019, 12:00:00');
 var date = new Date();
 
 var _second = 1000;
